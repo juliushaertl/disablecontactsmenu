@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>disablecontactsmenu</id>
+    <name>disablecontactsmenu</name>
+    <summary></summary>
+    <description>
+    </description>
+    <category>customization</category>
+    <version>0.1.0</version>
+    <licence>agpl</licence>
+    <author mail="jus@bitgrid.net">Julius Härtl</author>
+    <dependencies>
+        <nextcloud min-version="12" max-version="12" />
+    </dependencies>
+</info>
+
